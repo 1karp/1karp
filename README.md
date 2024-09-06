@@ -1,5 +1,5 @@
 ### Hi there, I'm Artem 👋
-Most of the time I do backend development with Python and Go
+Most of the time I do backend development with Go and Python
 
 
 
